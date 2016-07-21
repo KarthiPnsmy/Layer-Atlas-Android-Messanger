@@ -5,7 +5,7 @@ This repo is originally forked form **https://github.com/layerhq/Atlas-Android-M
 
 ##Sending Audio Message:
 
-**com.layer.atlas.AtlasMessageComposer** handles below things,
+**[AtlasMessageComposer.java](https://github.com/railskarthi/Layer-Atlas-Android-Messanger/blob/master/Atlas-Android/layer-atlas/src/main/java/com/layer/atlas/AtlasMessageComposer.java)** handles below things,
 
     * Recording audio message in .mp4
     * Saving in SD card
@@ -14,7 +14,7 @@ This repo is originally forked form **https://github.com/layerhq/Atlas-Android-M
 
 ##Receiving Audio Message:
 
-**com.layer.atlas.messagetypes.audio.AudioCellFactory** (which is new CellFactory to haldle audio message) handles below things,
+**[AudioCellFactory.java](https://github.com/railskarthi/Layer-Atlas-Android-Messanger/blob/master/Atlas-Android/layer-atlas/src/main/java/com/layer/atlas/messagetypes/audio/AudioCellFactory.java)** (which is new CellFactory to haldle audio message) handles below things,
 
     * Rendering MediaPlayer with Seekbar in MessageListActivity if mime type meets audio type
     * Downloading audio in SD card
