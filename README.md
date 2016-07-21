@@ -7,7 +7,7 @@ This repo is originally forked form **https://github.com/layerhq/Atlas-Android-M
 
 **com.layer.atlas.AtlasMessageComposer** handles below things,
 
-    * Recording audio message in **.MP4** format
+    * Recording audio message in .mp4
     * Saving in SD card
     * Displaying reording timer
     * Send message via Layer client
@@ -25,10 +25,13 @@ This repo is originally forked form **https://github.com/layerhq/Atlas-Android-M
 
     * Reason for using .mp4 format is, FireFox not supporting .3gp files
     * This modified app will create below folder structure in SD card root,
-        **sd_card_root/Chat/Audio/Sent**
+      sd_card_root/Chat/Audio/Sent
+
 
 ##Disclaimer:
 
 I haven't added **Runtime Permission** for API level 23. So this app will crash if you run on **API level >= 23**. So feel free to add runtime Permission and give me a PR. 
 
 ##Screens:
+
+![Scrren 1](https://github.com/railskarthi/Layer-Atlas-Android-Messanger/blob/master/Screens/Screenshot_1.png)
