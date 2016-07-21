@@ -34,6 +34,5 @@ I haven't added **Runtime Permission** for API level 23. So this app will crash 
 
 ##Screens:
 
-![Scrren 1](https://github.com/railskarthi/Layer-Atlas-Android-Messanger/blob/master/Screens/Screenshot_1.png)
-
-![Scrren 2](https://github.com/railskarthi/Layer-Atlas-Android-Messanger/blob/master/Screens/Screenshot_2.png)
+![Screen1](https://github.com/railskarthi/Layer-Atlas-Android-Messanger/blob/master/Screens/Screenshot_1.png?raw=true "Screen1")
+![Screen2](https://github.com/railskarthi/Layer-Atlas-Android-Messanger/blob/master/Screens/Screenshot_2.png?raw=true "Screen2")
